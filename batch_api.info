@@ -1,0 +1,5 @@
+name = Batch API
+description = Helper module that assists in working with batches in Drupal core.
+core = 7.x
+files[] = includes/BatchApiReliableBatchQueueInterface.inc
+files[] = includes/BatchApiBatchQueueInterface.inc
